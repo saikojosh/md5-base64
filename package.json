@@ -7,7 +7,7 @@
     "url": "https://github.com/saikojosh/md5-base64/issues"
   },
   "name": "md5-base64",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Quickly create MD5 hashes encoded as base64 strings.",
   "keywords": [
     "md5",
@@ -33,9 +33,7 @@
     "eslint-plugin-jsx-a11y": "1.0.x",
     "eslint-plugin-react": "5.0.x"
   },
-  "dependencies": {
-
-  },
+  "dependencies": {},
   "license": "MIT",
   "engines": {
     "node": "5.x"
