@@ -1,0 +1,43 @@
+{
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saikojosh/md5-base64.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saikojosh/md5-base64/issues"
+  },
+  "name": "md5-base64",
+  "version": "0.0.1",
+  "description": "Quickly create MD5 hashes encoded as base64 strings.",
+  "keywords": [
+    "md5",
+    "hash",
+    "encoding",
+    "encode",
+    "base64"
+  ],
+  "main": "index.js",
+  "author": "Josh Cole <saikojosh@gmail.com> (http://www.JoshuaCole.me)",
+  "contributors": [
+    {
+      "name": "Josh Cole",
+      "email": "saikojosh@gmail.com"
+    }
+  ],
+  "devDependencies": {
+    "eslint": "2.8.x",
+    "eslint-config-airbnb": "8.0.x",
+    "eslint-config-settled": "latest",
+    "eslint-plugin-babel": "3.2.x",
+    "eslint-plugin-import": "1.6.x",
+    "eslint-plugin-jsx-a11y": "1.0.x",
+    "eslint-plugin-react": "5.0.x"
+  },
+  "dependencies": {
+
+  },
+  "license": "MIT",
+  "engines": {
+    "node": "5.x"
+  }
+}
