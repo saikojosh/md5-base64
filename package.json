@@ -7,7 +7,7 @@
     "url": "https://github.com/saikojosh/md5-base64/issues"
   },
   "name": "md5-base64",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Quickly create MD5 hashes encoded as base64 strings.",
   "keywords": [
     "md5",
